@@ -1,0 +1,66 @@
+header{
+    background-color: #2C3E50;
+    width: 96rem;
+    height: 6.5rem;
+}
+.masthead{
+    font-size: 4rem;
+    line-height: 3rem;
+}
+
+
+.design{
+    color: aliceblue;
+    text-decoration: none;
+
+}
+.design:hover{
+    color: #1ABC9C;
+}
+
+top-main{
+
+    background-color: #1ABC9C;
+    width: 96rem;
+    height: 48rem;
+}
+.dark{
+    color: #2C3E50;
+}
+.portfolio{
+    font-size: 3rem;
+}
+.bottom-main{
+    background-color:rgb(255, 255, 255);
+    width: 96rem;
+    height: 45rem;
+}
+.border{
+    border-color: white;
+    border-radius: 3%;
+}
+.about-main{
+    background-color: #1ABC9C;
+    width: 96rem;
+    height: 35rem;
+}
+.contact-main{
+    background-color:rgb(255, 255, 255);
+    width: 96rem;
+    height: 65rem;
+}
+.form-hover:hover{
+    cursor: text;
+}
+.top-footer{
+    background-color:#2C3E50;
+    width: 96rem;
+    height: 17rem;
+}
+.bottom-footer{
+    background-color:#1A252F;
+    width: 96rem;
+    height: 4rem
+}
+
+
